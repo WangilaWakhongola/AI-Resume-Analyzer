@@ -1,0 +1,31 @@
+John Doe
+john@example.com | (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer - Tech Innovations (2021-Present)
+- Led development of machine learning pipeline using Python and scikit-learn
+- Implemented microservices architecture with Django and Docker
+- Improved system performance by 45% through optimization
+- Mentored team of 5 junior developers
+
+Software Developer - Digital Solutions (2019-2021)
+- Developed web applications using React and Node.js
+- Designed and implemented RESTful APIs with Flask
+- Managed PostgreSQL and MongoDB databases
+- Collaborated with cross-functional teams
+
+TECHNICAL SKILLS
+Programming: Python, JavaScript, Java, SQL, HTML, CSS
+Frameworks: Django, Flask, React, Node.js, Express
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Git, Docker, AWS, Jenkins, JIRA
+Soft Skills: Leadership, Problem-solving, Communication, Teamwork
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2019
+
+Years of Experience: 5+

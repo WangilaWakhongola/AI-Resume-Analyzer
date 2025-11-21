@@ -1,0 +1,8 @@
+# No external dependencies required for core functionality
+# This project uses Python standard library only
+# Compatible with Python 3.7+
+
+# Optional: For enhanced functionality (future versions)
+# scikit-learn==1.0.2
+# nltk==3.7
+# spacy==3.4.1
