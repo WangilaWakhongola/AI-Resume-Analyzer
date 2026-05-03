@@ -1,4 +1,4 @@
-# No external dependencies required for core functionality
+ No external dependencies required for core functionality
 # This project uses Python standard library only
 # Compatible with Python 3.7+
 
