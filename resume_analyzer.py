@@ -1,4 +1,4 @@
-import re
+import resume_analyzer
 import 
 from datetime import datetime
 from collections import Counter
