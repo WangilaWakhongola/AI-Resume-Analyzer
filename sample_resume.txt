@@ -1,7 +1,7 @@
-John Doe
-john@example.com | (555) 123-4567
-LinkedIn: linkedin.com/in/johndoe
-GitHub: github.com/johndoe
+Wangila Wakhongola
+wangila@example.com | (555) 123-4567
+LinkedIn: linkedin.com/in/wangila
+GitHub: github.com/wangila
 
 PROFESSIONAL EXPERIENCE
 
